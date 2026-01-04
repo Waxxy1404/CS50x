@@ -8,4 +8,4 @@ This repository contains my coursework and projects from Havard University's CS5
 - Memory management
 
 ## Status
-In progress
+Week 0 - Getting started
