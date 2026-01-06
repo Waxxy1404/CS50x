@@ -8,4 +8,4 @@ This repository contains my coursework and projects from Havard University's CS5
 - Memory management
 
 ## Status
-Week 1 - C Basics
+Week 1 - C Programming
